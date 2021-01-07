@@ -6,4 +6,6 @@
 for the Magic Candy Feature, that is just something i added for fun, its the ability to spawn all the minions on the map in one place and kill them
 for max candies, i high recommand you have a high damage stat before using this OR you use minion god mode, you also have the ability to spawn the minions
 on other players aswell, if your feeling generous, the 'Candy Brick Road' Options spawn the minions in such a way it looks like a road of candy canes, 
-the 'Candy Floor' options spawns the minions in such a way that the canes kinda look like a floor underneath you, autobuy coming soon!
+the 'Candy Floor' options spawns the minions in such a way that the canes kinda look like a floor underneath you, give it time to spawn all the minions
+i put a wait on killing them to make sure all the minions were spawn in otherwise it will kill them with no canes, autobuy coming soon, both these options
+are found under the Player Tab! :D
