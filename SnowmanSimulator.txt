@@ -17,3 +17,7 @@ A: Since this literally teleports ALL MINIONS on the map to you and kills them y
 
 Q: It got really laggy when using the Magic Candy options
 A: Its really resource intensive especially when its grabbing all the minions on map and trying to render all those candy canes at once!
+
+
+MUST READ:
+Please for the love of ramen noodles, if you encounter a glitch or bug PLEASE, let me know..message me on my Discord DohmBoyOG#0313, ill fix the bugs as report ASAP!
