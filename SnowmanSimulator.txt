@@ -1,0 +1,9 @@
+[Change Log]
+
+1/4/2021 - Brand New UI, Optimized some of the code
+
+1/7/2021 - New Features: Unlimited Sleigh Fuel and Magic Candy, make sure you have your sleigh already out, you don't have to be riding it just spawn in,
+for the Magic Candy Feature, that is just something i added for fun, its the ability to spawn all the minions on the map in one place and kill them
+for max candies, i high recommand you have a high damage stat before using this OR you use minion god mode, you also have the ability to spawn the minions
+on other players aswell, if your feeling generous, the 'Candy Brick Road' Options spawn the minions in such a way it looks like a road of candy canes, 
+the 'Candy Floor' options spawns the minions in such a way that the canes kinda look like a floor underneath you, autobuy coming soon!
