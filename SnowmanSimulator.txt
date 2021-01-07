@@ -9,3 +9,11 @@ on other players aswell, if your feeling generous, the 'Candy Brick Road' Option
 the 'Candy Floor' options spawns the minions in such a way that the canes kinda look like a floor underneath you, give it time to spawn all the minions
 i put a wait on killing them to make sure all the minions were spawn in otherwise it will kill them with no canes, autobuy coming soon, both these options
 are found under the Player Tab! :D
+
+[ Common Issues ]
+
+Q: No Minions are spawning by me or other players.
+A: Since this literally teleports ALL MINIONS on the map to you and kills them you gotta wait the game to spawn more!
+
+Q: It got really laggy when using the Magic Candy options
+A: Its really resource intensive especially when its grabbing all the minions on map and trying to render all those candy canes at once!
