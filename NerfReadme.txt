@@ -47,6 +47,21 @@ to increase your speed and control your direction with the mouse.
 hit the toggle as soon as the match ends then just keep clicking on the map and or gamemode you want and you have 
 infinite voting, effectivly allowing you to be the one who chooses the gamemode!
 
+[Section 5 - Silent Aim]
+
+1) Turn on Silent Aim by pressing the Silent Aim [Button]
+
+If you turn on silent aim without selecting any settings the defaults are as follows:
+
+SelectedPart = "Head"
+FOV = 250
+CircleVisibility = true
+Distance = 500
+
+To Turn Silent aim off set the FOV Slider to 0
+
+
+
 
 AFTER READING THIS ANY QUESTIONS YOU HAVE HIT ME UP ON DISCORD!
 
