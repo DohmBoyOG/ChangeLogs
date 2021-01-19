@@ -59,6 +59,7 @@ CircleVisibility = true
 Distance = 500
 
 To Turn Silent aim off set the FOV Slider to 0
+Use the Circle Visibilty Option to see How far the Silent Aim can see!
 
 
 
