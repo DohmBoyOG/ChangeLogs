@@ -61,6 +61,11 @@ Distance = 500
 To Turn Silent aim off set the FOV Slider to 0
 Use the Circle Visibilty Option to see How far the Silent Aim can see!
 
+[Section 5 - Admin Early Warning System]
+
+1) This is automatically Enabled
+2) It will show up in chat in big bold letters when admin has joined or left!
+
 
 
 
